@@ -1,2 +1,3 @@
-# python-api-challenge
-api homework
+# python-api-practice
+weather analysis
+google maps
